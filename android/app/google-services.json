@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892840716135",
+    "firebase_url": "https://camilla-e-ivens.firebaseio.com",
+    "project_id": "camilla-e-ivens",
+    "storage_bucket": "camilla-e-ivens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892840716135:android:e018401d04039121",
+        "android_client_info": {
+          "package_name": "com.camillaeivens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892840716135-amcteukim5q2m4900u67opogoil92goa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camillaeivens",
+            "certificate_hash": "d71522e041d768dfef1c079bc5d470c1adb5faca"
+          }
+        },
+        {
+          "client_id": "892840716135-j9055q9e4n63pdm836270u2l23q5fs80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmr6QsDeN4Ov37AfvrKMMJJyYXgvaMlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892840716135-j9055q9e4n63pdm836270u2l23q5fs80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
